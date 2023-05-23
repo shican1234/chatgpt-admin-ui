@@ -6,6 +6,8 @@
 - 后台包括海报管理,充值配置管理,GPTKEY管理,用户管理,分销提现管理,问答模板配置,AI模配置等
 - 基于GPT3.5 SDK包括了4.0的功能 因为没有4.0的key所以没试过4.0的
 - 具体功能看演示(演示为商业版本)
+- WEB演示地址：https://pc.momoyucm.top
+- H5演示地址：https://ai.momoyucm.top
 - 后台演示地址(此后台修改的在演示前端不会有变化)
 - http://175.178.233.9:9191/
 - 账号:yanshi
@@ -19,7 +21,6 @@
 
 ### 进度说明
    
-- 本月更新适配PC版本的前端
 **本地JAVA部署**
 - 通过git下载源码
 - idea、eclipse需安装lombok插件，不然会提示找不到entity的get set方法
@@ -71,6 +72,28 @@ window.SITE_CONFIG['apiURL'] = 'http://localhost:8080/renren-admin';
 <br>
 
 ### 项目截图(截图内容为商业版本)
+**WEB页面**
+![输入图片说明](rdimg/pc0.png)
+![输入图片说明](rdimg/pc1.png)
+![输入图片说明](rdimg/pc2.png)
+![输入图片说明](rdimg/pc3.png)
+![输入图片说明](rdimg/pc4.png)
+![输入图片说明](rdimg/pc5.png)
+![输入图片说明](rdimg/pc6.png)
+![输入图片说明](rdimg/pc7.png)
+![输入图片说明](rdimg/pc8.png)
+**H5页面**
+![输入图片说明](rdimg/qd1.png)
+![输入图片说明](rdimg/qd2.jpeg)
+![输入图片说明](rdimg/qd3.jpeg)
+![输入图片说明](rdimg/qd4.jpeg)
+![输入图片说明](rdimg/qd5.jpeg)
+![输入图片说明](rdimg/qd6.jpeg)
+![输入图片说明](rdimg/qd7.jpeg)
+![输入图片说明](rdimg/qd8.jpeg)
+![输入图片说明](rdimg/qd9.jpeg)
+![输入图片说明](rdimg/qd10.jpeg)
+**后台页面**
 ![输入图片说明](rdimg/ht1.png)
 ![输入图片说明](rdimg/ht2.png)
 ![输入图片说明](rdimg/ht3.png)
@@ -83,16 +106,6 @@ window.SITE_CONFIG['apiURL'] = 'http://localhost:8080/renren-admin';
 ![输入图片说明](rdimg/ht10.png)
 ![输入图片说明](rdimg/ht11.png)
 ![输入图片说明](rdimg/ht12.png)
-![输入图片说明](rdimg/qd1.png)
-![输入图片说明](rdimg/qd2.jpeg)
-![输入图片说明](rdimg/qd3.jpeg)
-![输入图片说明](rdimg/qd4.jpeg)
-![输入图片说明](rdimg/qd5.jpeg)
-![输入图片说明](rdimg/qd6.jpeg)
-![输入图片说明](rdimg/qd7.jpeg)
-![输入图片说明](rdimg/qd8.jpeg)
-![输入图片说明](rdimg/qd9.jpeg)
-![输入图片说明](rdimg/qd10.jpeg)
 ### 普通版本与商业版的区别
 ![区别](rdimg/js.png)
 <br>
